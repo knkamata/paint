@@ -1,0 +1,13 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx-swt.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.base.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.controls.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.fxml.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.graphics.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.media.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.swing.jar",
+		"/Users/kensukekamata/Library/javafx-sdk-11/lib/javafx.web.jar"
+	]
+}
